@@ -23,10 +23,10 @@ https://www.youtube.com/watch?v=d4Dy4PAYCdQ&t
 
 3.	There’s no difference in cars. They all work basically the same, regardless of specs. Good technique will make you faster in any car on any track. Stick to the basics, even after you've done this for 10 years.
 
-<p>Here’s a video of the world’s quintessential autocross machine: A 1.6L Red Mazda MX5. The fastest pass was 4th fastest overall in a field full of good drivers and a few National Champions. For a car with about 100hp, that's not too shabby. Its 89-inch wheelbase and narrow track allow it to glide between the cones and carry tons of speed at the apex of turns.
-https://youtu.be/Ui6F5i3zEss</p>
+    Here’s a video of the world’s quintessential autocross machine: A 1.6L Red Mazda MX5. The fastest pass was 4th fastest overall in a field full of good drivers and a few National Champions. For a car with about 100hp, that's not too shabby. Its 89-inch wheelbase and narrow track allow it to glide between the cones and carry tons of speed at the apex of turns.
+https://youtu.be/Ui6F5i3zEss
 
-Here's a run in a Honda Civic at the NC State Championship in 2017. It's an H Street car, technically the “slowest” class. But, 200hp in a narrow-body car can go pretty fast if you’re smooth and drive a precise line.
+    Here's a run in a Honda Civic at the NC State Championship in 2017. It's an H Street car, technically the “slowest” class. But, 200hp in a narrow-body car can go pretty fast if you’re smooth and drive a precise line.
 https://youtu.be/Yi254jKqHNg
 
 4.	The bigger the arcs you can make and still stay inside the course will make you faster. This requires staying close to the cones at all times, and trying to seamlessly connect a series of arcs to navigate the course. If you can drive a precise line, the speed will come. Driving off the line makes you slower because there’s always built-up rubber and dirt, and because you'll have to drive a tighter arc to get back on the line for the next element. It's always better to get into a corner smoothly with balance and accelerate earlier than to overdrive. Watch Andrew Pallotta navigate the first turnaround without shifting (IT'S TIGHT!).  He's as fast as they come and is a multi-time National Champion.
