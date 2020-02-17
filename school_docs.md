@@ -1,6 +1,6 @@
-Novice School INFO, VIDEOS and TIPS
+<h1>Novice School INFO, VIDEOS and TIPS</h1>
 
-Hello Novices,
+<h2>Hello Novices,</h2>
 
 Novice School is next weekend. Take some time this weekend to make sure your car is ready for the event. Check for leaks, tighten your lug nuts, and make sure your tires aren’t showing cords and your air pressure is right. Get any loose, unnecessary items out of the car.
 
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=XE4ip4i0Ggc
 Eliminating Braking:
 https://www.youtube.com/watch?v=d4Dy4PAYCdQ&t
 
-Here are a few tips that can benefit beginners...
+<h2>Here are a few tips that can benefit beginners...</h2>
 
 1.	Plan your 1st run based on where you need to be accelerating or decelerating. Your goal is ALWAYS to get on the gas as early as possible. Between elements, you should accelerate as fast as the car and course allow. Slow down before, then accelerate as early as possible on the exit of, each element. 
 
@@ -23,8 +23,8 @@ Here are a few tips that can benefit beginners...
 
 3.	There’s no difference in cars. They all work basically the same, regardless of specs. Good technique will make you faster in any car on any track. Stick to the basics, even after you've done this for 10 years.
 
-Here’s a video of the world’s quintessential autocross machine: A 1.6L Red Mazda MX5. The fastest pass was 4th fastest overall in a field full of good drivers and a few National Champions. For a car with about 100hp, that's not too shabby. Its 89-inch wheelbase and narrow track allow it to glide between the cones and carry tons of speed at the apex of turns.
-https://youtu.be/Ui6F5i3zEss
+<p>Here’s a video of the world’s quintessential autocross machine: A 1.6L Red Mazda MX5. The fastest pass was 4th fastest overall in a field full of good drivers and a few National Champions. For a car with about 100hp, that's not too shabby. Its 89-inch wheelbase and narrow track allow it to glide between the cones and carry tons of speed at the apex of turns.
+https://youtu.be/Ui6F5i3zEss</p>
 
 Here's a run in a Honda Civic at the NC State Championship in 2017. It's an H Street car, technically the “slowest” class. But, 200hp in a narrow-body car can go pretty fast if you’re smooth and drive a precise line.
 https://youtu.be/Yi254jKqHNg
